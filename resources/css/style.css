@@ -5,9 +5,11 @@ h1{
   color: White;
 }
 
-.excursion{
-    color: aquamarine;
-    font-size: 16px;
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
 }
 
 html{
@@ -19,4 +21,13 @@ p{
   font-family: Verdana;
   font-size: 21px;
   color: Gray;
+}
+
+p.copyright {
+  text-align: right;
+  color: Gray;
+}
+
+a{
+  color: Aquamarine;
 }
